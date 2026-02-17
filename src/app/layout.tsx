@@ -30,7 +30,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
         <main>{children}</main>
         
         <footer>
-          <p>&copy; 2024 My Nursing Journey. Created for ICT Performance Activity.</p>
+          <p>&copy; 2026 My Nursing Journey. Created for ICT Performance Activity.</p>
           <p>This website is part of an educational project demonstrating digital citizenship and ICT advocacy.</p>
         </footer>
       </body>

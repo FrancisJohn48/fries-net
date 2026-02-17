@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div>
       <div className="hero">
-        <h1>Your Name Here</h1>
+        <h1>Hi, Im Fries</h1>
         <p className="mb-2">Aspiring Nurse | Healthcare Advocate | Digital Health Champion</p>
         <p style={{fontSize: '1.1rem', fontStyle: 'italic'}}>
           "Compassionate care meets digital innovation"
@@ -15,8 +15,8 @@ export default function Home() {
           
           <div style={{fontSize: '1.1rem', lineHeight: '1.8'}}>
             <p>
-              <strong>Hello!</strong> I am [Your Name], a [Your Grade/Year] student who is passionate about 
-              pursuing a career in nursing. Ever since [describe a moment or experience that inspired you], 
+              <strong>Hello!</strong> I am Fries, a Grade 12-Diamond student who is passionate about 
+              pursuing a career in nursing. Ever since I realized that nurses have the ability to help people in their most vulnerable moments, I’ve been motivated to pursue nursing. I want to make a positive impact on others’ lives and provide care when it’s needed the most., 
               I knew that I wanted to dedicate my life to caring for others and making a difference in healthcare.
             </p>
 

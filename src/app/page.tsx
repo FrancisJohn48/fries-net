@@ -1,11 +1,27 @@
 export default function Home() {
   return (
     <div>
+      {/* Profile Picture Section */}
+      <div style={{
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        paddingTop: '2rem',
+        paddingBottom: '1rem'
+      }}>
+        <div className="profile-picture">
+          <img 
+            src="/image.png" 
+            alt="Fries - Aspiring Nurse"
+          />
+        </div>
+      </div>
+
       <div className="hero">
-        <h1>Hi, Im Fries</h1>
+        <h1>Hi, I&apos;m Fries</h1>
         <p className="mb-2">Aspiring Nurse | Healthcare Advocate | Digital Health Champion</p>
         <p style={{fontSize: '1.1rem', fontStyle: 'italic'}}>
-          "Compassionate care meets digital innovation"
+          &quot;Compassionate care meets digital innovation&quot;
         </p>
       </div>
 
@@ -16,8 +32,7 @@ export default function Home() {
           <div style={{fontSize: '1.1rem', lineHeight: '1.8'}}>
             <p>
               <strong>Hello!</strong> I am Fries, a Grade 12-Diamond student who is passionate about 
-              pursuing a career in nursing. Ever since I realized that nurses have the ability to help people in their most vulnerable moments, I’ve been motivated to pursue nursing. I want to make a positive impact on others’ lives and provide care when it’s needed the most., 
-              I knew that I wanted to dedicate my life to caring for others and making a difference in healthcare.
+              pursuing a career in nursing. Ever since I realized that nurses have the ability to help people in their most vulnerable moments, I&apos;ve been motivated to pursue nursing. I want to make a positive impact on others&apos; lives and provide care when it&apos;s needed the most.
             </p>
 
             <h3>Why I Chose Nursing</h3>
